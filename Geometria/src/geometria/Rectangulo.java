@@ -7,7 +7,10 @@ package geometria;
 
 /**
  *
- * @author javier
+ * @author Roberto Díaz Morffi 
+ * @version 1.0
+ * @since 23-11-2021
+ * 
  */
 public class Rectangulo implements FiguraGeometrica
 {
