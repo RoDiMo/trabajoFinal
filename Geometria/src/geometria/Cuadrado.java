@@ -21,6 +21,7 @@ public class Cuadrado implements FiguraGeometrica
     /**
      * Método constructor de lado
      * @param lado Lado del cuadrado
+     * 
      */
     public Cuadrado(double lado) 
     {
