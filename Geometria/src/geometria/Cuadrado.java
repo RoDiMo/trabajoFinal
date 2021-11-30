@@ -8,6 +8,7 @@ package geometria;
 /**
  *
  * @author javier
+ * 
  */
 
 public class Cuadrado implements FiguraGeometrica

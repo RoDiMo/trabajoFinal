@@ -26,6 +26,7 @@ public class Circulo implements FiguraGeometrica
     /**
      * Método consultor
      * @return El radio de la circunferencia
+     * 
      */
     public double getRadio() 
     {
